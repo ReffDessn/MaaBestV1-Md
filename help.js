@@ -8,31 +8,31 @@ var monoSpace = '```'
 exports.rulesBot = () =>{
 return`*──「 RULES-BOT 」──*
 
-1. Dilarang spam bot✉️. 
-Sanksi: *BLOCK*
+1. ᴅɪʟᴀʀᴀɴɢ sᴘᴀᴍ ʙᴏᴛ ✉️. 
+Sanksi: *ʙʟᴏᴄᴋ*
 
-2. Dilarang Call bot📞.
-Sanksi: *BLOCK*
+2. ᴅᴜʟᴀʀᴀɴɢ ᴛᴇʟᴘᴏɴ ʙᴏᴛ 📞.
+Sanksi: *ʙʟᴏᴄᴋ*
 
-3. Jangan Mengina bot📣.
-Sanksi: *PERMANENT BLOCK*
+3. ᴅɪᴀʟᴀʀᴀɴɢ ᴛᴏxɪᴄ ᴋᴇᴘᴀᴅᴀ ʙᴏᴛ📣.
+Sanksi: *ᴘᴇʀᴍᴀɴᴇɴᴛ ʙʟᴏᴄᴋ*
 
-Mohon Di pahami atas Peraturan penggunaan bot WhatsApp.`
+ᴍᴏʜᴏɴ ᴅɪᴘᴀʜᴀᴍɪ ʀᴜʟᴇs ᴛᴇʀsᴇʙᴜᴛ ᴅᴀʟᴀᴍ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴏᴛ`
 }
 
 exports.donasiBot = (cekName,ucapanWaktu) =>{
-return`──「 *MENU DONATE* 」──
+return`──「 *ᴅᴏɴᴀᴛᴇ ғᴏʀ ʙᴏᴛ* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085806240904
+Number: 082350496532
 
 *Payment Dana*
-Number: 085806240904
+Number: 082350496532
 
 *Payment Gopay*
-Number: ----
+Number: 082350496532
 
 Satu sedekah yang tulus sama dengan seribu langkah menuju surga.
 صدقة واحدة مخلصة تساوي ألف خطوة إلى الجنة.
@@ -42,19 +42,19 @@ ${monoSpace} berapapun donasi dari kalian itu sangat berarti bagi kami ^_^${mono
 }
 
 exports.infoOwner = () =>{
-return`──「 *DATA PROFIL OWNER* 」──
+return`──「 *ᴅᴀᴛᴀ ᴘʀᴏғɪʟᴇ ᴏᴡɴᴇʀ* 」──
 
- ⬣ *Nama :* Rama 
- ⬣ *Umur :* Privv
- ⬣ *Hoby. :* Turu/Game
- ⬣ *Asal   :* Jatim - Lamongan
- ⬣ *Status:* Creator
- ⬣ *Zodiak:* Gk tau
+ ⬣ *Nama :* ʀʏᴀɴ ᴀᴅɪᴛʏᴀ ᴘʀᴀᴛᴀᴍᴀ
+ ⬣ *Umur :* 24th
+ ⬣ *Hoby. :* ɢᴀᴍᴇ
+ ⬣ *Asal   :* ᴊᴀʙᴀʀ - ʙᴀɴᴅᴜɴɢ
+ ⬣ *Status:* ᴄʀᴇᴀᴛᴏʀ
+ ⬣ *Zodiak:* ʟᴇᴏ
 
-                  「 *SOSIAL MEDIA*」
- ⬣ *Whatsapp:* 085791220179
- ⬣ *Youtube:* Ramaa Gnnz
- ⬣ *Github:* ---
+                  「 *sᴏsɪᴀʟ ᴍᴇᴅɪᴀ*」
+ ⬣ *Whatsapp:* 0822522851432
+ ⬣ *Youtube:* ---
+ ⬣ *Github:* YᴀɴɴPʀᴛᴍ
  ⬣ *Tiktok:* ---
  ⬣ *Instagram:* ---
  `
